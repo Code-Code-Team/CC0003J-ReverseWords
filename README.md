@@ -16,8 +16,11 @@ At the end of the this coding challenge, students will be able to;
 
 ## ScreenShot and Website- Link
 
-- ![ScreenShot of ReverseWord](images/Screen%20Shot%202020-10-16%20at%2012.26.54.png)
+  ![ScreenShot of ReverseWord](images/Screen%20Shot%202020-10-16%20at%2012.26.54.png)
   
+---
+  
+
 - (https://code-code-team.github.io/CC0003J-ReverseWords/)
 
 

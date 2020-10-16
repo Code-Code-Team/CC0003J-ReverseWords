@@ -14,7 +14,7 @@ At the end of the this coding challenge, students will be able to;
 - Please note that, single word should not be reversed!
 - Please take a look at the empty function and test code below:
 
-## ScreenShot and Website- Link
+## ScreenShot and WebPage
 
 - ![ScreenShot of ReverseWord](images/Screen%20Shot%202020-10-16%20at%2012.26.54.png)
   
